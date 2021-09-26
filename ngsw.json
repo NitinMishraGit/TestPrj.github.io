@@ -1,0 +1,133 @@
+{
+  "configVersion": 1,
+  "timestamp": 1632644679154,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.093ce5d12d2620014d52.js",
+        "/manifest.webmanifest",
+        "/polyfills.341fa8199ee4a667d21a.js",
+        "/runtime.ffd756dcee46c4dd9175.js",
+        "/scripts.89a302fb4df988c76810.js",
+        "/styles.4c64f975367539630965.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-256x256.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/Legend.jpg",
+        "/assets/img/bs.jpg",
+        "/assets/img/copy.png",
+        "/assets/img/email.png",
+        "/assets/img/facebook.png",
+        "/assets/img/isro.png",
+        "/assets/img/koo.png",
+        "/assets/img/marker.png",
+        "/assets/img/marker_green.png",
+        "/assets/img/marker_home.png",
+        "/assets/img/marker_red.png",
+        "/assets/img/mmi.png",
+        "/assets/img/route_advices.svg",
+        "/assets/img/twitter.png",
+        "/assets/img/whatsapp.png",
+        "/material-icons-outlined.d9ee746242a805718747.woff",
+        "/material-icons-outlined.fd23b35f30442c1cd593.woff2",
+        "/material-icons-round.b6be0cbea8114cb18fb8.woff2",
+        "/material-icons-round.f407ef5494569aecffe5.woff",
+        "/material-icons-sharp.3b40221307dc40746777.woff",
+        "/material-icons-sharp.8dd6c22fb3a5bbb20640.woff2",
+        "/material-icons-two-tone.97f967c0c00e77d5e0fc.woff2",
+        "/material-icons-two-tone.c52179b632d5f1507fef.woff",
+        "/material-icons.1ffa9adfdf7ec392d1b8.woff2",
+        "/material-icons.bbf3b9207839cdbc489a.woff",
+        "/route_advices.5479a1a52a5ec8c3a7bf.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "731f8d45cbd6107343d03963b4975481f42945b8",
+    "/assets/icons/icon-144x144.png": "9dc6cdf723875e8190a414100d5ee30afd09050c",
+    "/assets/icons/icon-152x152.png": "32650ca8f68919a51f165920f1d7d457d78228f0",
+    "/assets/icons/icon-192x192.png": "40a50a9c8bdd00c3da3a133dead19c55f4c7a8c4",
+    "/assets/icons/icon-256x256.png": "f0eca2c77948d1db68344b3917b0d154b3dfc215",
+    "/assets/icons/icon-72x72.png": "d84912bbcaa18341cd784a5cf37e5e3d532e531e",
+    "/assets/icons/icon-96x96.png": "c77f146bc4f1d855beefa7b37ed91b66b33026ac",
+    "/assets/img/Legend.jpg": "3049576b48f24086b3e5e0d78dbdec155146d5cf",
+    "/assets/img/bs.jpg": "7229f6ac732a05e773a25430135f535212a22a1f",
+    "/assets/img/copy.png": "c991e9210063ef951325cdba333e1799eb51f24e",
+    "/assets/img/email.png": "c7902fd9930f51a42bafc27d2cf975b8f3a01534",
+    "/assets/img/facebook.png": "a2e7aadf373e436811c940c37b65de9b74410283",
+    "/assets/img/isro.png": "b4b872a22180bb6652844a8853a7f23c4f331ecc",
+    "/assets/img/koo.png": "b5bba0d847c3e76b80cdcb615a593d31bc4df596",
+    "/assets/img/marker.png": "9f30a16f6c675aa79cff17547c35eb1c14f4a5c8",
+    "/assets/img/marker_green.png": "7a13338993c893ba4e8b6c7a48c787505a092af1",
+    "/assets/img/marker_home.png": "29a848f605f84e1ca772c279cdbe55c20422b9ce",
+    "/assets/img/marker_red.png": "50aeec02e799e1301f6d25dc724068e81bc37189",
+    "/assets/img/mmi.png": "3a3867627458f8b75c3f1a31fa41d21a09c64c26",
+    "/assets/img/route_advices.svg": "e4597970500bb308bf507fe66b8459e8ac675a74",
+    "/assets/img/twitter.png": "05fc8976e5106f562213b100516ca694f5b76572",
+    "/assets/img/whatsapp.png": "5c3d6a2ce45d7cce9744d478c17f062860d049da",
+    "/favicon.ico": "7583392e2d146ffb88c2a01cc3c41b8be701f635",
+    "/index.html": "aaeb807a984fec89e6970fe2b1e57fd4cda51fcf",
+    "/main.093ce5d12d2620014d52.js": "18756125c79de25e1ee47b94ff8f0d376ecd02b5",
+    "/manifest.webmanifest": "de0bc41bd8b9be468fcadcd46e297f1e16294366",
+    "/material-icons-outlined.d9ee746242a805718747.woff": "e8a1379ebad222a68f9f7fba5e2d1647fdf6cd2b",
+    "/material-icons-outlined.fd23b35f30442c1cd593.woff2": "a0ec64b046aa4c63d1579576b875a4d0dfb10fe2",
+    "/material-icons-round.b6be0cbea8114cb18fb8.woff2": "8158c60d07df1e24c4fa209d68e21bc6bf1a4058",
+    "/material-icons-round.f407ef5494569aecffe5.woff": "ee8dcb66ae072b09e72b9c1f2a0b691a6010b2f1",
+    "/material-icons-sharp.3b40221307dc40746777.woff": "3b6a6cce8829e642e6eee7f626299e16207acbe7",
+    "/material-icons-sharp.8dd6c22fb3a5bbb20640.woff2": "cd63dac263572475e1abcf26ec3c334b15df3327",
+    "/material-icons-two-tone.97f967c0c00e77d5e0fc.woff2": "cc192070fd587ae585b4de18f6a8eb3215fc0159",
+    "/material-icons-two-tone.c52179b632d5f1507fef.woff": "51d6cf2aeba1529227b88d8b4dff51b4b3f0e9fd",
+    "/material-icons.1ffa9adfdf7ec392d1b8.woff2": "b380f5c2d6a9f921131358aa4b4e54d1232e9870",
+    "/material-icons.bbf3b9207839cdbc489a.woff": "849ecb29fbf59898c7783afbfc60f68b19a38492",
+    "/polyfills.341fa8199ee4a667d21a.js": "a0a5ba834eb85e387c0b2e6b3680bc2fb76f6732",
+    "/route_advices.5479a1a52a5ec8c3a7bf.svg": "e4597970500bb308bf507fe66b8459e8ac675a74",
+    "/runtime.ffd756dcee46c4dd9175.js": "5e3693ab336c9c0857b6e42e0911feaf0e03df16",
+    "/scripts.89a302fb4df988c76810.js": "f9150a78d2e8e494943fbc5476daa3dd4403b522",
+    "/styles.4c64f975367539630965.css": "8b6c634feb84274e71f23ed821d5e9793d950525"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
